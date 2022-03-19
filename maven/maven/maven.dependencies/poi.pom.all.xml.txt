@@ -1,25 +1,30 @@
+
 <dependencies>
-    <!--- -[3.8]- -->
+
+    <!--- -[5.2.1]- -->
     <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
     <dependency>
         <groupId>org.apache.poi</groupId>
         <artifactId>poi</artifactId>
-        <version>3.8</version>
+        <version>5.2.1</version>
     </dependency>
 
-    <!--- -[3.5-beta5]- -->
+
+    <!--- -[5.2.1]- -->
     <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
     <dependency>
         <groupId>org.apache.poi</groupId>
         <artifactId>poi-ooxml</artifactId>
-        <version>3.5-beta5</version>
+        <version>5.2.1</version>
     </dependency>
 
-    <!--- -[3.2-FINAL]- -->
+
+    <!--- -[5.2.1]- -->
     <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-scratchpad -->
     <dependency>
         <groupId>org.apache.poi</groupId>
         <artifactId>poi-scratchpad</artifactId>
-        <version>3.2-FINAL</version>
+        <version>5.2.1</version>
     </dependency>
+
 </dependencies>
