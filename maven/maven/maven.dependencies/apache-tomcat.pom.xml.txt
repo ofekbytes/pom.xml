@@ -1,13 +1,5 @@
 
-//
-// apache-tomcat //
-//
-
-
-// apache-tomcat - version 9.0.0.M1 //
-
-// maven //
-
+<!--- -[9.0.0.M1]- -->
 <!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat -->
 <dependency>
     <groupId>org.apache.tomcat</groupId>
@@ -15,7 +7,3 @@
     <version>9.0.0.M1</version>
     <type>pom</type>
 </dependency>
-
-
-
-
